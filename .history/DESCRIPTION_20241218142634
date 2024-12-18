@@ -1,4 +1,4 @@
-Package: esquisse_data_vis
+Package: esquisse
 Type: Package
 Title: Explore and Visualize Your Data Interactively
 Version: 2.0.1
