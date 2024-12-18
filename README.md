@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# esquisse <img src="man/figures/logo.png" width=200 align="right" />
+# esquisse - fork <img src="man/figures/logo.png" width=200 align="right" />
 
 **Try online : <https://dreamrs.shinyapps.io/esquisse/>**
 
